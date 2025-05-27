@@ -1,6 +1,6 @@
 Supplemental code for the paper:
 
-Seongwon Im and Ander Wilson and Daniel Mork (2025). Structured Bayesian Regression Tree Models for Estimating Distributed Lag Effects: The R Package dlmtree. [arXiv:2504.18452](https://arxiv.org/abs/2504.18452).
+Seongwon Im, Ander Wilson and Daniel Mork (2025). Structured Bayesian Regression Tree Models for Estimating Distributed Lag Effects: The R Package dlmtree. [arXiv:2504.18452](https://arxiv.org/abs/2504.18452).
 
 The two files are the code for the supplement and the code included in the main text.
 
